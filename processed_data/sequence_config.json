@@ -1,0 +1,5 @@
+{
+  "SEQUENCE_LENGTH": 30,
+  "FEATURE_SIZE": 126,
+  "NUM_CLASSES": 30
+}

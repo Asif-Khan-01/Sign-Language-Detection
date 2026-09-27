@@ -1,0 +1,43 @@
+# ============================================================
+# ASL Real-Time Detection — requirements.txt
+# Python 3.8+ recommended
+# Install: pip install -r requirements.txt
+# ============================================================
+
+# Deep Learning
+tensorflow>=2.10.0
+
+# Computer Vision & Hand Tracking
+opencv-python>=4.7.0
+mediapipe>=0.10.0
+
+# Dataset Loading
+datasets>=2.14.0
+huggingface_hub>=0.16.0
+
+# Numerical Computing
+numpy>=1.23.0
+
+# Data Manipulation
+pandas>=1.5.0
+
+# Visualization
+matplotlib>=3.6.0
+seaborn>=0.12.0
+
+# Machine Learning Utilities
+scikit-learn>=1.2.0
+
+# Image Processing
+Pillow>=9.0.0
+
+# Progress Bars
+tqdm>=4.64.0
+
+# Jupyter Support
+jupyter>=1.0.0
+ipykernel>=6.0.0
+ipywidgets>=8.0.0
+
+# Utilities
+transformers>=4.30.0
